@@ -4,9 +4,9 @@ Welcome to my portfolio! I am Lucas Boczkowski, a Product Owner and Data Science
 
 ## Table of Contents
 
-- [Project 1: Data Analytics - Customer Insights and Sales Analysis Dashboard](./Customer_Insights_and_Sales_Analysis_Dashboard)
-- [Project 2: Data Science - International Soccer Matches](./International_Soccer_Matches)
-- [Project 3: NLP - Restaurant Reviews Analysis](./Restaurant_Reviews_Analysis)
+- [Project 1: Data Analytics - Customer Insights and Sales Analysis Dashboard]
+- [Project 2: Data Science - International Soccer Matches]
+- [Project 3: NLP - Restaurant Reviews Analysis]
 
 ## Projects
 
