@@ -8,7 +8,6 @@ This project involves analyzing customer insights and sales data to drive busine
 - [Data](#data)
 - [Database](#database)
 - [Reports](#reports)
-- [Setup](#setup)
 - [Contact](#contact)
 
 ## Project Overview
