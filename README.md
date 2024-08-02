@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! I am Lucas Boczkowski, a Product Owner and Data Science enthusiast. This repository contains a collection of my projects showcasing my skills in software development, data analytics, data science, and natural language processing.
+Welcome to my portfolio! I am Lucas Boczkowski, a Product Manager and Data Science enthusiast. This repository contains a collection of my projects showcasing my skills in software development, data analytics, data science, and natural language processing.
 
 ## Table of Contents
 
