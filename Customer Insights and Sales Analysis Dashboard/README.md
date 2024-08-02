@@ -8,6 +8,7 @@ This project involves analyzing customer insights and sales data to drive busine
 - [Data](#data)
 - [Database](#database)
 - [Reports](#reports)
+- [Setup](#setup)
 - [Contact](#contact)
 
 ## Project Overview
@@ -38,6 +39,14 @@ The `database` directory contains the backup of the database created from the pr
 The `reports` directory contains the final Power BI dashboard.
 
 - `Customer Insights and Sales Analysis.pbix`: Power BI dashboard file.
+
+## Setup
+
+To set up and explore the Power BI dashboard, follow these steps:
+
+1. Ensure you have Power BI Desktop installed on your computer. You can download it from the [official Power BI website](https://powerbi.microsoft.com/desktop/).
+
+2. Open the `Customer Insights and Sales Analysis.pbix` file in Power BI Desktop to explore the dashboard.
 
 ## Contact
 
