@@ -10,7 +10,7 @@ Welcome to my portfolio! I am Lucas Boczkowski, a Product Manager and Data Scien
 
 ## Projects
 
-### [Customer Insights and Sales Analysis Dashboard](./Customer_Insights_and_Sales_Analysis_Dashboard)
+### [Customer Insights and Sales Analysis Dashboard](./Customer Insights and Sales Analysis Dashboard)
 A Power BI Service project analyzing customer insights and sales data to drive business decisions.
 
 ### [International Soccer Matches](./International_Soccer_Matches)
