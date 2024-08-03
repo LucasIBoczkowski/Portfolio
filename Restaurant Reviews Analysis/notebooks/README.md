@@ -8,4 +8,5 @@ This directory contains the final Notebook for the project.
 
 ## Usage
 
-- Open the `Restaurant Reviews.ipynb` file in Google Colab, Jupyter Notebook or similar, in order to explore the project.
+- Open the `Restaurant Reviews.ipynb` file in Google Colab, Jupyter Notebook, or a similar platform to explore the project.
+
