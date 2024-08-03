@@ -16,7 +16,7 @@ A Power BI Service project analyzing customer insights and sales data to drive b
 ### [International Soccer Matches](./International%20Soccer%20Matches)
 A data science project to explore international soccer matches with a focus on understanding a team's home strength for result prediction. The analysis involves the use of various data science libraries, including Pandas, Matplotlib, Seaborn, scikit-learn, and pipeline.
 
-### [Restaurant Reviews Analysis]
+### [Restaurant Reviews Analysis](./Restaurant%20Reviews%20Analysis)
 An NLP project analyzing customer reviews from restaurants to extract sentiments and trends, with a collection of techniques for preprocessing text data, including tokenization, stemming, and lemmatization.
 
 ## Contact
