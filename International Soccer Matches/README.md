@@ -7,7 +7,7 @@ This project explores international soccer matches with a focus on understanding
 - [Project Overview](#project-overview)
 - [Data](#data)
 - [Notebooks](#notebooks)
-- [Setup](#setup)
+- [Usage](#usage)
 - [Contact](#contact)
 
 ## Project Overview
@@ -30,27 +30,9 @@ The `notebooks` directory contains the Jupyter notebook used for analysis.
 
 - `International_soccer_matches.ipynb`: The notebook with all the code for data processing, analysis, visualization, modelling and prediction.
 
-## Setup
+## Usage
 
-To set up the environment for this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name/International_Soccer_Matches
-    ```
-
-2. Create a virtual environment and install dependencies:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    pip install -r requirements.txt
-    ```
-
-3. Open the Jupyter notebook:
-    ```bash
-    jupyter notebook "notebooks/International_soccer_matches.ipynb"
-    ```
+- Open the `International soccer matches.ipynb` file in Google Colab, Jupyter Notebook or similar, in order to explore the project.
 
 ## Contact
 
