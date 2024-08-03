@@ -32,7 +32,7 @@ The `notebooks` directory contains the Jupyter notebook used for analysis.
 
 ## Usage
 
-- Open the `International soccer matches.ipynb` file in Google Colab, Jupyter Notebook or similar, in order to explore the project.
+- Open the `International_soccer_matches.ipynb` file in Google Colab, Jupyter Notebook, or a similar platform to explore the project.
 
 ## Contact
 
